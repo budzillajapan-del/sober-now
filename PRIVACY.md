@@ -1,6 +1,6 @@
 # SoberNow Privacy Policy
 
-**Effective date: 2026-05-28**
+**Effective date: 2026-06-05**
 
 SoberNow is a personal sobriety tracking and recovery support app. This policy explains what data SoberNow handles, how it's stored, and what we do (and don't do) with it. The short version: **everything stays on your device.**
 
@@ -70,7 +70,7 @@ If this policy changes, the new version will appear at this URL with an updated 
 
 ## Contact
 
-Questions about this policy: [your email address here]
+Questions about this policy: budzillajapan@gmail.com
 
 ---
 
